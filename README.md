@@ -12,4 +12,4 @@ At its core, Reckon-Orb is meant to support the balancing, tracking, and evoluti
 
 <img width="2778" height="1940" alt="Reckon Orb Logo" src="https://github.com/user-attachments/assets/b57e00b4-8e97-4e89-ace3-bd6b98c13478" />
 
-**Fig.** Made with Nomad Sculpt on iPad.
+**Fig.** Made with Nomad Sculpt & Procreate on iPad.
