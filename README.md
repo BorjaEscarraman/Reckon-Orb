@@ -20,7 +20,8 @@ So far, the Orbs have been applied to the following projects;
 [Reconfigurable Conditioning Loop](https://github.com/BorjaEscarraman/Reconfigurable-Conditioning-Loop)\
 [Cryogenic Contraction Stackup](https://github.com/BorjaEscarraman/Cryogenic-Contraction-Stackup)\
 [Hybrid Rocket Engine Performance Model](https://github.com/BorjaEscarraman/Hybrid-Rocket-Engine-Performance-Model)\
-[Cooling Channel Plate Model](https://github.com/BorjaEscarraman/Cooling-Channel-Cooling-Plate-Model)\
+[Cooling Channel Plate Model](https://github.com/BorjaEscarraman/Cooling-Channel-Cooling-Plate-Model)
+
 
 
 
