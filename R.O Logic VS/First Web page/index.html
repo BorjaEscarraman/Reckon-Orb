@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Starship Study</title>
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+      overflow: hidden;
+      background: radial-gradient(circle at 50% 80%, #2a2d35 0%, #0c1017 30%, #000 75%);
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    #app {
+      position: fixed;
+      inset: 0;
+    }
+
+    #overlay {
+      position: fixed;
+      inset: 0;
+      display: grid;
+      grid-template-columns: 420px 1fr;
+      pointer-events: none;
+    }
+
+    .panel {
+      align-self: center;
+      padding-left: 24px;
+      max-width: 360px;
+    }
+
+    h1 {
+      margin: 0 0 18px;
+      font-size: 4rem;
+      line-height: 0.95;
+    }
+
+    p {
+      line-height: 1.55;
+      color: rgba(255,255,255,0.82);
+      font-size: 0.98rem;
+    }
+
+    .specs {
+      margin-top: 36px;
+    }
+
+    .spec {
+      display: flex;
+      justify-content: space-between;
+      border-bottom: 1px solid rgba(255,255,255,0.18);
+      padding: 14px 0;
+      font-size: 0.92rem;
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+
+  <div id="overlay">
+    <div class="panel">
+      <h1>STARSHIP<br>OVERVIEW</h1>
+      <p>
+        Personal interface study. Recreating the feel of a cinematic aerospace
+        product page with a rotating vehicle render and fixed technical copy.
+      </p>
+
+      <div class="specs">
+        <div class="spec"><span>HEIGHT</span><span>123 m / 403 ft</span></div>
+        <div class="spec"><span>DIAMETER</span><span>9 m / 29.5 ft</span></div>
+        <div class="spec"><span>PAYLOAD</span><span>100–150 t</span></div>
+      </div>
+    </div>
+    <div></div>
+  </div>
+
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
