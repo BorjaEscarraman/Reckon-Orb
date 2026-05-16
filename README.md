@@ -15,7 +15,8 @@ At its core, Reckon-Orb is meant to support the balancing, tracking, and evoluti
 **Fig.** Made with Nomad Sculpt & Procreate on iPad.
 
 
-The **Orbs** will be applied to the following mission itinerary;
+The **Orbs** will be applied to the following mission itinerary; 
+
 **disclaimer.** For now, these are intended projects to build as I test the functionality of **Reckon Orb**, so they do not exist yet...
 
 [Reconfigurable Conditioning Loop](https://github.com/BorjaEscarraman/Reconfigurable-Conditioning-Loop)\
