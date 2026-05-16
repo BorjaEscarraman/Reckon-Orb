@@ -2,7 +2,7 @@
 
 This is the Operating System I’ve been creating — **initially, not intentionally** — since I started my Aerospace Engineering journey in May 2025 during Calculus III and Statics.
 
-I saw myself hungry to enhance the way I find the way around challenges, and generally become an efficient human being in every dimension: improving my health lifestyle, learning curve, relationships, technical growth and well-being.
+I saw myself hungry to enhance the way I find my way around challenges, and generally become an efficient human being in every dimension: improving my health lifestyle, learning curve, relationships, technical growth and well-being.
 
 Reckon-Orb is my attempt to build a **System-Creation Tool** for anyone involved in technology, engineering, or ambitious project-building who wants to remain sane, organized, and on track while pursuing difficult missions.
 
