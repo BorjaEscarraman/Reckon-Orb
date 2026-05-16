@@ -2,11 +2,11 @@
 
 This is the Operating System I’ve been creating — **initially, not intentionally** — since I started my Aerospace Engineering journey in May 2025 during Calculus III and Statics.
 
-I found myself hungry to enhance the way I wrap my head around problems and become a more efficient human being in every dimension: improving my health lifestyle, learning curve, relationships, technical growth, and overall well-being.
+I saw myself hungry to enhance the way I find the way around challenges, and generally become an efficient human being in every dimension: improving my health lifestyle, learning curve, relationships, technical growth and well-being.
 
-Reckon-Orb is my long-term attempt to build a **System-Creation Tool** for anyone involved in technology, engineering, or ambitious project-building who wants to remain sane, organized, and on track while pursuing difficult missions.
+Reckon-Orb is my attempt to build a **System-Creation Tool** for anyone involved in technology, engineering, or ambitious project-building who wants to remain sane, organized, and on track while pursuing difficult missions.
 
-The goal is to create a consistent network and narrative behind everything I build: my engineering projects, LinkedIn presence, technical interview preparation, classwork, meal prep systems, AI prompting workflows for faster recognition and learning, self-recording, documentation, and the discipline of picking up my own pen to write my story.
+The goal is to create a consistent network and narrative behind everything I look forward to progress on: Engineering Missions, LinkedIn presence, technical interview preparation, coursework, meal prep systems, AI prompting workflows for faster recognition and learning, self-recording [to track evolution], technical documentation... Ultimately, picking up my own pen to write my authentic story.
 
 At its core, Reckon-Orb is meant to support the balancing, tracking, and evolution of every mission I undertake.
 
@@ -16,6 +16,7 @@ At its core, Reckon-Orb is meant to support the balancing, tracking, and evoluti
 
 
 So far, the Orbs have been applied to the following projects;
+**disclaimer.** As for now, these are intended projects to build as I test the functionality of **Reckon Orb**, so they do not exist yet...
 
 [Reconfigurable Conditioning Loop](https://github.com/BorjaEscarraman/Reconfigurable-Conditioning-Loop)\
 [Cryogenic Contraction Stackup](https://github.com/BorjaEscarraman/Cryogenic-Contraction-Stackup)\
