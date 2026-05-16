@@ -32,7 +32,6 @@ Branches...
 - Autonomy
 
  Main HTML Documentation utilized... \
-
  [MDN for practical learning](https://developer.mozilla.org/en-US/docs/Web/HTML) \
 [WHATWG for official specification](https://html.spec.whatwg.org)
 
