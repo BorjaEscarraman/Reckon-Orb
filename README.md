@@ -1,6 +1,6 @@
-# Reckon-Orb
+# Reckon Orb
 
-This is the Operating System I’ve been creating — **initially, not intentionally** — since I started my Aerospace Engineering journey in May 2025.
+This is the Operating System I’ve been creating — **initially, not intentionally** — since I started my Aerospace Engineering journey in May 2025 during Calculus III and Statics.
 
 I found myself hungry to enhance the way I wrap my head around problems and become a more efficient human being in every dimension: improving my health lifestyle, learning curve, relationships, technical growth, and overall well-being.
 
