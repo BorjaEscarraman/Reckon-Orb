@@ -17,8 +17,6 @@ At its core, Reckon-Orb is meant to support the balancing, tracking, and evoluti
 
 The **Orbs** will be applied to the following mission itinerary; 
 
-**disclaimer.** For now, these are intended projects to build as I test the functionality of **Reckon Orb**, so they do not exist yet...
-
 [Reconfigurable Conditioning Loop](https://github.com/BorjaEscarraman/Reconfigurable-Conditioning-Loop) - Ongoing
 
 [Megalodon](https://github.com/BorjaEscarraman/Hybrid-Rocket-Engine-Performance-Model) - Ongoing
@@ -26,13 +24,6 @@ The **Orbs** will be applied to the following mission itinerary;
 [Cooling Channel Plate Model](https://github.com/BorjaEscarraman/Cooling-Channel-Cooling-Plate-Model) - Not started
 
 [Cryogenic Contraction Stackup](https://github.com/BorjaEscarraman/Cryogenic-Contraction-Stackup) - Not started
-
-Branches...
-- Thermal
-- Propulsion
-- Fluids
-- Heat Transfer
-- Autonomy
 
 Main HTML Documentation utilized... \
 [Beginner Friendly](https://www.w3schools.com/Html/) \
