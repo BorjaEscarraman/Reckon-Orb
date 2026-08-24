@@ -19,10 +19,10 @@ The **Orbs** will be applied to the following mission itinerary;
 
 **disclaimer.** For now, these are intended projects to build as I test the functionality of **Reckon Orb**, so they do not exist yet...
 
-[Reconfigurable Conditioning Loop](https://github.com/BorjaEscarraman/Reconfigurable-Conditioning-Loop)\
-[Cryogenic Contraction Stackup](https://github.com/BorjaEscarraman/Cryogenic-Contraction-Stackup)\
-[Hybrid Rocket Engine Performance Model](https://github.com/BorjaEscarraman/Hybrid-Rocket-Engine-Performance-Model)\
-[Cooling Channel Plate Model](https://github.com/BorjaEscarraman/Cooling-Channel-Cooling-Plate-Model)
+[Reconfigurable Conditioning Loop](https://github.com/BorjaEscarraman/Reconfigurable-Conditioning-Loop)\ [Ongoing]
+[Megalodon](https://github.com/BorjaEscarraman/Hybrid-Rocket-Engine-Performance-Model)\ [Ongoing ]
+[Cooling Channel Plate Model](https://github.com/BorjaEscarraman/Cooling-Channel-Cooling-Plate-Model) [Not started]
+[Cryogenic Contraction Stackup](https://github.com/BorjaEscarraman/Cryogenic-Contraction-Stackup)\ [Not started]
 
 Branches...
 - Thermal
