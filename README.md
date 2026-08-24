@@ -1,4 +1,4 @@
-# Reckon Orb
+# Reckon Orb - Coming Soon...
 
 This is the Operating System I’ve been creating — **initially, not intentionally** — since I started my Aerospace Engineering journey in May 2025 during Calculus III and Statics.
 
