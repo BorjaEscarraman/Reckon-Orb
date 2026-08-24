@@ -6,7 +6,7 @@ I saw myself hungry to enhance the way I find my way around challenges, and gene
 
 Reckon-Orb is my attempt to build a **System-Creation Tool** for anyone involved in technology, engineering, or ambitious project-building who wants to remain sane, organized, and on track while pursuing difficult missions.
 
-The goal is to create a consistent network and narrative behind everything I look forward to progress on: Engineering Missions, LinkedIn presence, technical interview preparation, coursework, meal prep systems, AI prompting workflows for faster recognition and learning, self-recording [to track evolution], technical documentation... Ultimately, picking up my own pen to write my authentic story.
+The goal is to create a consistent network and narrative behind everything I look forward to progress on: Engineering Projects, technical interview preparation, coursework, meal prep systems, AI prompting workflows for faster recognition and learning, self-recording [to track evolution], technical documentation, LinkedIn presence... Ultimately, picking up my own pen to write my story.
 
 At its core, Reckon-Orb is meant to support the balancing, tracking, and evolution of every mission I undertake.
 
